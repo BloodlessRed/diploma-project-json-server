@@ -52,5 +52,17 @@
   ],
   "articles":[
     
+  ],
+  "managers":[
+    {
+      "id":1,
+      "username":"admin1",
+      "password":"sec1"
+    },
+    {
+      "id":2,
+      "username":"admin2",
+      "password":"sec2"
+    }
   ]
 }
